@@ -1,0 +1,15 @@
+.header {
+  background-color: #9575cd;
+  color: white;
+  margin-bottom: 0;
+}
+.footer {
+  background-color: #d1c4e9;
+}
+.navbar-custom {
+  background-color: #512da8;
+}
+
+.jumbotron{
+    margin-top: 50px;
+}
